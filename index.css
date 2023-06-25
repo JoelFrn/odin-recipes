@@ -1,0 +1,58 @@
+* {
+    line-height: 1.5;
+    text-align: left;
+}
+
+body {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: #0C0032;
+    color: rgb(210, 233, 6);
+}
+
+p {
+    font-size: 20px;
+}
+
+a {
+    text-decoration: none;
+    color: rgb(210, 233, 6);
+    line-height: 4;
+}
+
+ul li {
+    list-style: none;
+    padding-left: 0;
+}
+
+ul {
+    font-size: 25px;
+    padding-left: 0;
+}
+
+h1 {
+    font-size: 40px;
+}
+
+
+img {
+    display: block;
+    margin-right: auto;
+    width:30%;
+    height: 25%;
+}
+
+.ing, li {
+    font-size: 20px;
+}
+
+h2 {
+    font-size: 30px;
+}
+
+ol li {
+    line-height: 2;
+}
+
+h3 a {
+    color: White;
+}
